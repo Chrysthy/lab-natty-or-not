@@ -19,18 +19,18 @@ O projeto "JavaScript Town" é um eBook criado para ensinar os fundamentos de Ja
 <br>
 
 ### 🧐 Processo de Criação
- **Concepção do Tema:** A ideia inicial surgiu da combinação entre o aprendizado de JavaScript e a atmosfera envolvente do jogo "Silent Hill".
- **Geração de Conteúdo:** Utilizando IA, foram gerados os capítulos principais do eBook, incluindo tópicos como variáveis, operadores, estruturas condicionais, loops, funções, arrays e objetos.
- **Revisão e Edição:** O conteúdo gerado foi revisado manualmente para garantir a precisão técnica e clareza dos exemplos apresentados.
- **Diagramação:** A diagramação do eBook foi feita manualmente para assegurar uma apresentação visual atraente e coerente.
- **Publicação e Distribuição:** O eBook foi disponibilizado no GitHub, com instruções detalhadas sobre o processo de criação e objetivos educacionais do projeto.
+* **Concepção do Tema:** A ideia inicial surgiu da combinação entre o aprendizado de JavaScript e a atmosfera envolvente do jogo "Silent Hill".
+* **Geração de Conteúdo:** Utilizando IA, foram gerados os capítulos principais do eBook, incluindo tópicos como variáveis, operadores, estruturas condicionais, loops, funções, arrays e objetos.
+* **Revisão e Edição:** O conteúdo gerado foi revisado manualmente para garantir a precisão técnica e clareza dos exemplos apresentados.
+* **Diagramação:** A diagramação do eBook foi feita manualmente para assegurar uma apresentação visual atraente e coerente.
+* **Publicação e Distribuição:** O eBook foi disponibilizado no GitHub, com instruções detalhadas sobre o processo de criação e objetivos educacionais do projeto.
 
 <br>
 
 ### 🚀 Resultados
-**Material Didático:** Criação de um eBook compreensivo que aborda os principais aspectos da linguagem JavaScript, facilitando o aprendizado para iniciantes.
-**Engajamento:** A abordagem temática inspirada em "Silent Hill" gerou maior interesse e engajamento.
-**Compartilhamento:** A disponibilização do projeto no GitHub permite que outros educadores e estudantes possam acessar e utilizar o material para fins didáticos.o
+* **Material Didático:** Criação de um eBook compreensivo que aborda os principais aspectos da linguagem JavaScript, facilitando o aprendizado para iniciantes.
+* **Engajamento:** A abordagem temática inspirada em "Silent Hill" gerou maior interesse e engajamento.
+* **Compartilhamento:** A disponibilização do projeto no GitHub permite que outros educadores e estudantes possam acessar e utilizar o material para fins didáticos.o
 
 <br>
 
